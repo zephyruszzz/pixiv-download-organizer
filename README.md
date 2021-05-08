@@ -31,5 +31,5 @@ folder
 ## To Use This Script
 
 1. Prepare files with naming pattern.
-2. Download and move to the folder.
+2. Download [pimg_organizer.bat](https://github.com/zephyruszzz/pixiv-download-organizer/blob/master/pimg_organizer.bat) and move to the folder.
 3. Double click.
