@@ -12,14 +12,14 @@ REM 4. Run this script using Windows CMD
 
 REM Set download directory 
 REM CHANGE THIS if your download direcotry is different
-set dl_dir=D:\Download
+REM set dl_dir=D:\~DOWNLOAD
 
 REM Set folder name and file name delimiter
 REM CHANGE THIS if you use a different direcotry
 set delim=$$$
 
 
-chdir /d %dl_dir%
+REM chdir /d %dl_dir%
 
 setlocal enableextensions
 
