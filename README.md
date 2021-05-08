@@ -28,8 +28,13 @@ folder
         |__ ...
 ```
  
-## To Use This Script
+
+## Use This Script in General
 
 1. Prepare files with naming pattern.
 2. Download [pimg_organizer.bat](https://github.com/zephyruszzz/pixiv-download-organizer/blob/master/pimg_organizer.bat) and move to the folder.
 3. Double click.
+
+## Other Usages
+
+[Use with Pixiv Downloader](docs/use-with-pixiv-downloader.md)
