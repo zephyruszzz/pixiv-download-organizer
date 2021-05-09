@@ -34,7 +34,7 @@
 ### 3. 运行脚本
 
 
-将[pimg_organizer.bat](https://github.com/zephyruszzz/pixiv-download-organizer/blob/master/pimg_organizer.bat)下载至与图片存储路径相同的文件夹，双击运行。
+将[pimg_organizer.bat](https://github.com/zephyruszzz/pixiv-download-organizer/blob/master/pimg_organizer.bat)下载至与图片存储路径相同的文件夹（[右键此处另存为](https://raw.githubusercontent.com/zephyruszzz/pixiv-download-organizer/master/pimg_organizer.bat)），双击运行。
 
 整理前：
 
